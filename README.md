@@ -37,4 +37,5 @@ This task emphasizes user engagement, logical flow, and interactive design, alig
 
 #OUTPUT
 
+<img width="1215" height="603" alt="Image" src="https://github.com/user-attachments/assets/0dda9b6b-f74e-4e30-9032-97638b85b19a" />
 <img width="1342" height="702" alt="Image" src="https://github.com/user-attachments/assets/a695d863-2dcd-4264-9da7-7f837bb90bf0" />
